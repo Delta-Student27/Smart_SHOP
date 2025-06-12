@@ -10,6 +10,8 @@ import Category from './Models/Category.js';
 import Order from './Models/Order.js';
 import Feedback from './Models/Feedback.js';
 import AssistantHistory from './Models/AssistantHistory.js';
+import ARModel from './Models/ARModel.js';
+import VoiceCommand from './Models/VoiceCommand.js'
 
 dotenv.config();
 
